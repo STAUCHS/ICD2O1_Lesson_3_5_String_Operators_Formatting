@@ -18,7 +18,7 @@ area = length_cm * width_cm
 # Output area
 print("The area of your rectangle is", area, "cm^2")
 ## Add your new print statement using string concatentation here
-## Add yoru new print statement using f-strings here.
+## Add your new print statement using f-strings here.
 ```
 <span style="color:red">
 <b>
